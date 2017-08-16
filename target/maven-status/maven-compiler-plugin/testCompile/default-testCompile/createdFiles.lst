@@ -1,0 +1,7 @@
+com\endava\calculator\addTest\Assertions.class
+com\endava\calculator\addTest\AddTestAssert.class
+com\endava\calculator\addTest\JUnitSoftAssertions$1.class
+com\endava\calculator\addTest\SoftAssertions.class
+com\endava\calculator\addTest\AddTest.class
+com\endava\calculator\addTest\JUnitSoftAssertions.class
+com\endava\calculator\addTest\BddAssertions.class
